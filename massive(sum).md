@@ -1,5 +1,5 @@
 # toddy-froddy
-brikki brak
+
 brands = ['BMW', 'toyota', 'lexus', 'Ford', 'Tesla', 'Audi']
 
 for x in brands:
